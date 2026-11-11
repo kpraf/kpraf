@@ -1,4 +1,4 @@
-### Hi, I'm Kester 👋
+### What’s up, I’m Kes 👋
 
 4th-year Computer Science student (Machine Learning track) at Mapúa Malayan Colleges Laguna, Philippines.
 
