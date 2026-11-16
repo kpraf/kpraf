@@ -18,7 +18,7 @@ I like building things end to end: the database, the backend, the UI, and the mo
 | [**Fashion Recommendation System**](https://github.com/kpraf/fashion-recommendation-system) | Upload a clothing photo, get the 5 most similar items from a 44,000+ image catalog | ResNet50, scikit-learn, Streamlit |
 | [**Drowsy Driver Detection**](https://github.com/kpraf/Driver_Drowsiness_Detection) | Webcam system that tracks eye closure and sounds an alarm when a driver gets drowsy | Python, OpenCV, dlib |
 | [**Study Focus Tracker**](https://github.com/kpraf/study_focus_tracker) | Tracks if you're focused, drowsy, distracted, or away while studying, then gives a session report | Python, MediaPipe, OpenCV |
-| [**DJIHS Enrollment System**](https://github.com/kpraf/djihs-enrollment-system) | Role-based enrollment portal for a public high school with six staff dashboards | PHP, MySQL, JavaScript, Tailwind |
+| [**DJIHS Enrollment System**](https://github.com/kpraf/djihs-enrollment-system) | Enrollment system for a public senior high school: six staff roles, approvals, spreadsheet import and DepEd reports | Laravel, React, TypeScript, PostgreSQL |
 
 ---
 
@@ -28,6 +28,7 @@ I like building things end to end: the database, the backend, the UI, and the mo
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="Python" title="Python" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="40" alt="PHP" title="PHP" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin" title="Kotlin" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" alt="HTML" title="HTML" />&nbsp;&nbsp;
@@ -38,6 +39,7 @@ I like building things end to end: the database, the backend, the UI, and the mo
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" alt="React" title="React" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="40" alt="Vite" title="Vite" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="40" alt="Laravel" title="Laravel" />&nbsp;&nbsp;
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/flask/white" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" height="40" alt="Flask" title="Flask" /></picture>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS" title="Tailwind CSS" />&nbsp;&nbsp;
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/astro/white" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" height="40" alt="Astro" title="Astro" /></picture>&nbsp;&nbsp;
@@ -57,6 +59,7 @@ I like building things end to end: the database, the backend, the UI, and the mo
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" alt="Git" title="Git" />&nbsp;&nbsp;
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="40" alt="GitHub" title="GitHub" /></picture>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" alt="Docker" title="Docker" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" height="40" alt="Netlify" title="Netlify" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" height="40" alt="Supabase" title="Supabase" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" height="40" alt="Firebase" title="Firebase" />&nbsp;&nbsp;
