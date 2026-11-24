@@ -5,6 +5,7 @@
 I like building things end to end: the database, the backend, the UI, and the model behind it. I'm working toward software and AI engineering.
 
 - 🌾 Built **AgriKA-GIS**, a rice yield forecasting platform for Laguna, as my undergraduate thesis
+- 🚚 Building a **Taglish support agent** with LangGraph and Gemini, focused on evals
 - 🛠️ Do freelance web development: 7 live client sites for PH businesses and an international client
 - 🎯 Starting my practicum in December 2026
 
@@ -15,6 +16,7 @@ I like building things end to end: the database, the backend, the UI, and the mo
 | Project | What it does | Stack |
 |---|---|---|
 | [**AgriKA-GIS**](https://github.com/kpraf/agrika-gis) | Rice yield forecasting and GIS monitoring for Laguna. A CNN-LSTM model on satellite and weather data, shown on interactive municipality and barangay maps | React, Flask, PostgreSQL/PostGIS, TensorFlow |
+| [**Trucking Support Agent**](https://github.com/kpraf/trucking-support-agent) | Support agent for a fictional trucking company that chats in English, Taglish or Tagalog. Rules enforced in Python before any tool touches the database, with a native-speaker eval suite graded on database end state (in progress) | LangGraph, Gemini, FastAPI, PostgreSQL |
 | [**Fashion Recommendation System**](https://github.com/kpraf/fashion-recommendation-system) | Upload a clothing photo, get the 5 most similar items from a 44,000+ image catalog | ResNet50, scikit-learn, Streamlit |
 | [**Drowsy Driver Detection**](https://github.com/kpraf/Driver_Drowsiness_Detection) | Webcam system that tracks eye closure and sounds an alarm when a driver gets drowsy | Python, OpenCV, dlib |
 | [**Study Focus Tracker**](https://github.com/kpraf/study_focus_tracker) | Tracks if you're focused, drowsy, distracted, or away while studying, then gives a session report | Python, MediaPipe, OpenCV |
