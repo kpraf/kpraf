@@ -42,6 +42,7 @@ I like building things end to end: the database, the backend, the UI, and the mo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" alt="React" title="React" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="40" alt="Vite" title="Vite" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="40" alt="Laravel" title="Laravel" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI" title="FastAPI" />&nbsp;&nbsp;
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/flask/white" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" height="40" alt="Flask" title="Flask" /></picture>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS" title="Tailwind CSS" />&nbsp;&nbsp;
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/astro/white" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" height="40" alt="Astro" title="Astro" /></picture>&nbsp;&nbsp;
@@ -52,6 +53,8 @@ I like building things end to end: the database, the backend, the UI, and the mo
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" title="TensorFlow" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="scikit-learn" title="scikit-learn" />&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/langchain/white" /><img src="https://cdn.simpleicons.org/langchain" height="40" alt="LangGraph" title="LangGraph / LangChain" /></picture>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/googlegemini" height="40" alt="Gemini" title="Gemini API" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" height="40" alt="OpenCV" title="OpenCV" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL" />&nbsp;&nbsp;
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/mysql/white" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL" /></picture>
@@ -62,6 +65,7 @@ I like building things end to end: the database, the backend, the UI, and the mo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" alt="Git" title="Git" />&nbsp;&nbsp;
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="40" alt="GitHub" title="GitHub" /></picture>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" alt="Docker" title="Docker" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" height="40" alt="pytest" title="pytest" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" height="40" alt="Netlify" title="Netlify" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" height="40" alt="Supabase" title="Supabase" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" height="40" alt="Firebase" title="Firebase" />&nbsp;&nbsp;
